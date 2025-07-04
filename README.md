@@ -16,7 +16,7 @@ made by. team_KH리콜안전공단
 
 ## 💡 프로젝트 선정 배경
 
-* [파일럿 프로젝트](https://github.com/Wjyuy/project_2)에서 재작한 기존 JSP 기반의 리콜 정보 시스템은 유지보수와 확장성, 사용자 경험(UX) 측면에서 한계 발견
+* [파일럿 프로젝트](https://github.com/Wjyuy/project_2)에서 제작한 기존 JSP 기반의 리콜 정보 시스템은 유지보수와 확장성, 사용자 경험(UX) 측면에서 한계 발견
 * 최신 웹 트렌드에 맞는 **React 기반 SPA**로 프론트엔드 마이그레이션
 * Spring Boot 백엔드, REST API 연동
 
